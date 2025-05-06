@@ -5,5 +5,5 @@ This will remove Classic Microsoft Teams from all users appdata, start menu, tas
 Run as admin 
 
 ```powershell
-ScrubOffClassicMSTeams.ps1
+.\ScrubOffClassicMSTeams.ps1
 ```
